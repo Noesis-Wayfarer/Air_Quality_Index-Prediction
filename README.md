@@ -3,6 +3,12 @@
 > Predicting air quality today to protect public health tomorrow.
 
 An end-to-end Machine Learning project that predicts the **Air Quality Index (AQI)** using historical pollutant concentration data. This project explores data preprocessing, exploratory data analysis, feature importance, regression model comparison, and deploys the best-performing model through an interactive **Streamlit** web application.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-Regressor-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ---
 
@@ -141,4 +147,4 @@ Key observations:
 
 ---
 
-> *"Predicting air quality today helps protect public health tomorrow."*
+>"The atmosphere leaves clues in every measurement. This project is an attempt to turn those clues into understanding."
