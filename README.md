@@ -30,13 +30,16 @@ This project leverages Machine Learning techniques to forecast AQI values using 
 
 | Category | Technologies |
 |----------|--------------|
-| Programming Language | Python |
-| Data Analysis | Pandas, NumPy |
-| Data Visualization | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, XGBoost |
-| Model Deployment | Streamlit |
-| Model Persistence | Joblib |
-
+| **Programming Language** | Python 3.x |
+| **Development Environment** | Google Colab, Jupyter Notebook |
+| **Data Analysis** | Pandas, NumPy |
+| **Data Visualization** | Matplotlib, Seaborn |
+| **Machine Learning Framework** | Scikit-learn |
+| **Machine Learning Algorithms** | Linear Regression, Random Forest Regressor, XGBoost Regressor |
+| **Feature Engineering** | Data Cleaning, Missing Value Handling, Feature Selection |
+| **Model Evaluation** | MAE, MSE, RMSE, R² Score |
+| **Web Application** | Streamlit |
+| **Dataset** | Kaggle Air Quality Dataset (`city_day.csv`) |
 ---
 
 ## 📂 Dataset
